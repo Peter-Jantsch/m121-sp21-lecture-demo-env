@@ -1,4 +1,5 @@
 numpy
 matplotlib
 datascience
+okpy
 nbgitpuller
